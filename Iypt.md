@@ -37,13 +37,15 @@ Paramanyetik maddeler, ferromanyetik maddeler gibi herhangi bir mıknatısın ma
 <a title="Manyetizma Çeşitleri"><img width="256" src="https://i.hizliresim.com/9DDBZk.png"/></a>
 
 Curie (Küri) noktası veya başka bir deyişle Curie sıcaklığı, ferromanyetik bir maddenin, kalıcı mıknatıslığını yitirip paramanyetik hale geçtiği kritik sıcaklıktır. Bu isim manyetizma üzerine çalışan Fransız fizikçi Pierre Curie'nin anısına verilmiştir. Bazı maddelerin Curie noktaları:
-Madde | Curie noktası(K)|
+
+Madde | Curie Noktası(K)  |
 ------|----------------|
-Demir|1043|
-Kobalt|1394|
-Nikel|631|
-Gaolinyum|317|
-Demir(3)Oksit|1394|
+Demir   | 1043 |
+Nikel   | 1394 |
+Kobalt   | 631 |
+Gaolinyum   | 317 |
+Demir(3)Oksit   | 1394 |
+
 Termo-manyetik motorlar bir ferromanyetik maddeyi Curie noktasına kadar ısıtıp, paramanyetik hale getirip, kritik sıcaklığın altına soğutarak ısıyı mekanik enerjiye dönüştürür. Curie noktası motoru ise bir termo-manyetik motordur. Şema:
 <a title="Curie motoru şeması"><img width="" src="http://1.bp.blogspot.com/_Fr8044ToyQs/TTCAvu6ORlI/AAAAAAAAAF0/Acyi-QzaUmE/s1600/CURIE+EFFECT+HEAT+ENGINE.png"/></a>
 ## **Kaynakçalar** 
